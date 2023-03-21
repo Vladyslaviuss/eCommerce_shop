@@ -1,0 +1,7 @@
+#core
+Django==4.1.7
+
+#linters
+
+# For processing images
+pillow==9.4.0
